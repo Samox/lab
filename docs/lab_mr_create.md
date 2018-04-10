@@ -3,6 +3,7 @@
 Open a merge request on GitLab
 
 ### Synopsis
+Currently only supports MRs into master
 
 ```
 lab mr create [remote [branch]] [flags]
